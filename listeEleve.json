@@ -1,3 +1,4 @@
+{"etudiant":
 [{"id_etudiant": "00", "nom":"Aucun étudiant sélectionné", "session": "1", "cours": []},
 {"id_etudiant": "01", "nom":"Jean", "session": "2", "cours": ["Prog2"]},
 {"id_etudiant": "02", "nom":"Vincent", "session": "4", "cours": ["Prog1"]},
@@ -5,3 +6,4 @@
 {"id_etudiant": "04", "nom":"Joe", "session": "2", "cours": ["Prog1"]},
 {"id_etudiant": "05", "nom":"Jeanette", "session": "1", "cours": ["Prog1"]},
 {"id_etudiant": "06", "nom":"Alice", "session": "2", "cours": ["Prog2"]}]
+}
